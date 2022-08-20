@@ -1,10 +1,8 @@
 -- of course you have blue hair and pronouns
 
-require "/items/buildscripts/buildfood.lua"
-local oldbuild = build
-
 function build(d,c,p,...)
-	if oldbuild then c,p = oldbuild(d,c,p,...) end
+  require(c.pat_pronounbuilder or "/items/buildscripts/buildfood.lua")
+  c,p = build(d,c,p,...)
 	
 	if not p.pat_pronouns then
 		local list = root.assetJson("/items/generic/food/pat_pronounpizza.sussy")
