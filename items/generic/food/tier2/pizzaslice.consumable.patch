@@ -1,12 +1,12 @@
 [
   {
-    "op" : "move",
-    "from" : "/builder",
-    "path" : "/pat_pronounbuilder"
+    "op": "move",
+    "from": "/builder",
+    "path": "/pat_pronounbuilder"
   },
-	{
-		"op" : "add",
-		"path" : "/builder",
-		"value" : "/items/generic/food/pat_pronounpizza.lua"
-	}
+  {
+    "op": "add",
+    "path": "/builder",
+    "value": "/items/generic/food/pat_pronounpizza.lua"
+  }
 ]
