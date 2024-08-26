@@ -1,15 +1,18 @@
--- of course you have blue hair and pronouns
+-- i feel oh so woke
 
-function build(d,c,p,...)
-  require(c.pat_pronounbuilder or "/items/buildscripts/buildfood.lua")
-  c,p = build(d,c,p,...)
-	
-	if not p.pat_pronouns then
-		local list = root.assetJson("/items/generic/food/pat_pronounpizza.sussy")
-		
-		p.pat_pronouns = list[math.random(1, #list)]
-		p.shortdescription = p.pat_pronouns.."^reset; "..string.lower(p.shortdescription or c.shortdescription)
+function build(dir, config, params, ...)
+	if config.pat_pronounbuilder then
+		require(config.pat_pronounbuilder)
+		config, param = build(dir, config, params, ...)
 	end
-	
-	return c,p
+
+	if not params.pat_pronouns then
+		local list = root.assetJson("/items/generic/food/pat_pronounpizza.sussy")
+		local name = string.lower(params.shortdescription or c.shortdescription)
+
+		params.pat_pronouns = list[math.random(1, #list)]
+		params.shortdescription = string.format("%s^reset; %s", params.pat_pronouns, name)
+	end
+
+	return config, params
 end
