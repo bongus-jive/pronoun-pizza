@@ -7,7 +7,7 @@ function build(dir, config, params, ...)
 	end
 
 	if not params.pat_pronouns then
-		local list = root.assetJson("/items/generic/food/pat_pronounpizza.sussy")
+		local list = root.assetJson("/pat/pronounpizza/pronouns.sussy")
 		local name = string.lower(params.shortdescription or config.shortdescription)
 
 		params.pat_pronouns = list[math.random(1, #list)]
