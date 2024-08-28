@@ -38,5 +38,6 @@
   "circ/circle",
   "hawk/tuah",
   "gnu/linux",
-  "woke/ling"
+  "woke/ling",
+  "^font=pat_pronounpizza_x;X^reset;e/^font=pat_pronounpizza_x;x^reset;em"
 ]
