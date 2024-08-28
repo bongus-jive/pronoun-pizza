@@ -8,6 +8,7 @@
   "it/its",
                                 "they/xey/nya/it",
   "he/it",
+  "hoo/hoo",
   "she/it",
   "they/it",
   "it/he",
@@ -38,5 +39,10 @@
   "circ/circle",
   "hawk/tuah",
   "gnu/linux",
-  "woke/ling"
+  "woke/ling",
+  "^font=pat_pronounpizza_x;X^reset;e/^font=pat_pronounpizza_x;x^reset;em",
+  "drop/drip",
+  "earth/dirt",
+  "flame/fire",
+  "wind/air"
 ]
