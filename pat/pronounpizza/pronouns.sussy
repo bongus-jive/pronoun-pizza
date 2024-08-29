@@ -6,8 +6,9 @@
   "she/they",
   "he/she/they",
   "it/its",
-            "they/xey/nya/it",
+                                "they/xey/nya/it",
   "he/it",
+  "hoo/hoo",
   "she/it",
   "they/it",
   "it/he",
@@ -37,6 +38,13 @@
   "arf/aroo",
   "circ/circle",
   "hawk/tuah",
-"nor/mal",
-  "ho/ho/ho" 🎅
+  "nor/mal",
+  "ho/ho/ho", // 🎅
+  "gnu/linux",
+  "woke/ling",
+  "drop/drip",
+  "earth/dirt",
+  "flame/fire",
+  "wind/air",
+  "^font=pat_pronounpizza_x;X^reset;e/^font=pat_pronounpizza_x;x^reset;em"
 ]
