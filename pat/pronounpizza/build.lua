@@ -10,7 +10,7 @@ function build(dir, config, params, ...)
 		local list = root.assetJson("/pat/pronounpizza/pronouns.sussy")
 		local name = string.lower(params.shortdescription or config.shortdescription)
 
-		params.pat_pronouns = list[math.random(1, #list)]
+		params.pat_pronouns = list[1][math.random(1, #list)]
 		params.shortdescription = string.format("%s^reset; %s", params.pat_pronouns, name)
 	end
 
