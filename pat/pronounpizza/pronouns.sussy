@@ -45,5 +45,6 @@
   "earth/dirt",
   "flame/fire",
   "wind/air",
-  "^font=pat_pronounpizza_x;X^reset;e/^font=pat_pronounpizza_x;x^reset;em"
+  "^font=pat_pronounpizza_x;X^reset;e/^font=pat_pronounpizza_x;x^reset;em",
+  "woof/woofs"
 ]
