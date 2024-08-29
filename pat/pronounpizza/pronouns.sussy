@@ -44,6 +44,9 @@
   "drop/drip",
   "earth/dirt",
   "flame/fire",
+  "among/us", // ඞ pls update the .font file
+  "gee/gimself",
+  "ger/gerself",
   "wind/air",
   "^font=pat_pronounpizza_x;X^reset;e/^font=pat_pronounpizza_x;x^reset;em",
   "woof/woofs"
