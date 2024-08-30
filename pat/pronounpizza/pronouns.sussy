@@ -21,7 +21,6 @@
   "any/all",
   "xe/xer",
   "xi/xim",
-  "he/him",
   "xey/xem",
   "fae/faer",
   "pup/pups/pupself",
@@ -54,5 +53,6 @@
   "please ask",
   "none",
   "me/ow",
-  "mgg/aow"
+  "mgg/aow",
+  "he/him" //put new pronouns ABOVE this! it helps avoid merge conflicts & also he/him at the bottom is funny
 ]
