@@ -74,5 +74,5 @@
   "Who",
   "What",
   "I don't know",
-  "him" // put new pronouns ABOVE this! it helps avoid merge conflicts & also he","him at the bottom is funny
+  "him" // put new pronouns ABOVE this! it helps avoid merge conflicts & also him at the bottom is funny
 ]
