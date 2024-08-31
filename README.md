@@ -1,4 +1,4 @@
-gives pizza pronouns
+gives pizza pronoun
 
 feel free to contribute more Pronouns. to the pizza
 
