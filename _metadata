@@ -1,11 +1,12 @@
 {
-  "version" : "1.2",
   "author" : "patman",
-  "tags" : "Miscellaneous|Food and Farming",
-  "description" : "gives the pizza a Pronoun . \n\nthats it\n\n\nsponsored by the pronouns  of the Bongus jive\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/wXjYMqP.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]\n[url=https://link.clashofclans.com/en?action=OpenClanProfile&tag=2QCU2R9GP][img]https://i.imgur.com/xVfcRRH.gif[/img][/url]\n\n\nlog by bolb",
-  "name" : "pat_pronounpizza",
+  "description" : "pizza but woke",
   "friendlyName" : "pronoun pizza",
-  "steamContentId" : "2848976503",
+  "includes" : ["XRC_BETA_STARBOUND", "Whole Pizzas"],
   "link" : "steam://url/CommunityFilePage/2848976503",
-  "includes" : ["XRC_BETA_STARBOUND", "Whole Pizzas"]
+  "name" : "pat_pronounpizza",
+  "steamContentId" : "2848976503",
+  "steamDescription" : "gives the pizza a Pronoun . \n\n\nsponsored & developed by the pronouns  of the Bongus jive\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/pronoun-pizza <- contribute pronouns here!\n\n\nlog by bolb",
+  "tags" : "Miscellaneous|Food and Farming",
+  "version" : "1.3"
 }
