@@ -56,5 +56,12 @@
   "me/ow",
   "mgg/aow",
   "Who/What/I don't know",
+  "Sonic/Shadow",
+  "pin/gas",
+  "pep/per",
+  "right/click",
+  "^#f00;Pronoun error. Please report to mod author.^reset;",
+  "console/port",
+  "x/box",
   "he/him" //put new pronouns ABOVE this! it helps avoid merge conflicts & also he/him at the bottom is funny
 ]
