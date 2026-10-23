@@ -1,0 +1,9 @@
+{
+  "globalIgnore" : [
+    "^/\\.git",
+    "\\.gitignore$",
+    "^/README\\.md$",
+    "^/_previewimage$"
+    "^/CITATION\\.cff$"
+  ]
+}
